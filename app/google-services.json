@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "44939166845",
+    "firebase_url": "https://shumazhi-f3d4c.firebaseio.com",
+    "project_id": "shumazhi-f3d4c",
+    "storage_bucket": "shumazhi-f3d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44939166845:android:c6f80f1955a9fdf97b1d14",
+        "android_client_info": {
+          "package_name": "com.example.shumazhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44939166845-qaj1dqkjr5o985u7mh9omgtfm27icbam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOuC1evIxIE43QYw78YgwAOdE4M6ha_1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44939166845-qaj1dqkjr5o985u7mh9omgtfm27icbam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
